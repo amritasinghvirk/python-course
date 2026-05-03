@@ -3,7 +3,6 @@ This repository presents the basics about python.
 
 It is composed of the following files:
 
-
 - `src/test.py`
 - `data/`: All data files necessary to run the code
 
